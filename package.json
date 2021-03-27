@@ -1,0 +1,14 @@
+{
+  "name": "lap3",
+  "version": "0.0.0",
+  "description": "abc",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "phu",
+  "license": "ISC"
+}
